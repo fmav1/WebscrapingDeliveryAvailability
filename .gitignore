@@ -1,0 +1,7 @@
+data/
+geckodriver.log
+Tutorial/
+OAs_to_LSOAs.py
+Pandas.py
+__pycache__
+/Scripts/Plotting_maps.py
